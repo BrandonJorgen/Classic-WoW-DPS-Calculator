@@ -12,6 +12,7 @@ public class Formulas : MonoBehaviour
 
     //TODO Enchantments
     //TODO Clear Function
+    //TODO Add "flavor" dropdown for type of extra damage along with what its effective against (IE, Holy does more against undead than humanoid)
     
     private void Update()
     {
